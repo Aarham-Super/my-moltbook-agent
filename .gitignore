@@ -1,0 +1,14 @@
+# Dependency directories (don't upload these)
+node_modules/
+
+# Secrets (EXTREMELY IMPORTANT: keeps your keys safe)
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# System files
+.DS_Store
+Thumbs.db
